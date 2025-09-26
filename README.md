@@ -4,7 +4,7 @@
 <img src="img/Wi-Fi icon.png">
 </p>
 
-#### _July 2024: macOS 26 Tahoe breaks OCLP root patch_
+#### _September 2025: macOS 26 Tahoe breaks OCLP root patch_
 
 OLCP root patch for Fenvi Wi-Fi adapters has stopped working on macOS Tahoe. There is no fix yet. Wi-Fi adapters that lost support on macOS Sonoma and Sequoia and were able to remain active thanks to OCLP don't work on Tahoe. I'm pretty sure the OCLP team is working on it, but they haven't released a version for Tahoe yet.
 
